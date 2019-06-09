@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+# 破碎的镜子与其他故事
+死亡的副标题
 
-You can use the [editor on GitHub](https://github.com/NostalgieZZZ/NostalgieZZZ.github-io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 
+ 我见到他的时候他还只是一个学生，整日无忧无虑地吟唱着青春的歌谣。那时候我还在餐厅工作，递盘子、听着客人们没完没了的抱怨。我也不知道这活我到底干了多久，但那时生活的压力并没有铺天盖地地向我压来，我仍被允许在狭小的房子里唱歌。所以我就一直在餐厅工作。我在租的小房间里贴了一张流浪艺人的海报，它就在我的床头，我每天起床都可以凝视它一会。床尾距离门还有一米左右，我在那收集外卖盒。比较可恶的是各种爬虫，似乎还嫌我的残羹剩饭不够恶臭，一直在那儿肆虐。我不希望破坏我营造的这种不切实际的自然景观。事实上我一直担心如果我把饭盒们扔掉，我可能会慢慢丢掉作为一只巨型爬虫的所有本能。但现在那些小爬虫们一直在威胁着我的生存处境。我只也好每周清理一次床尾的地板。这样做是否违背了我的初衷，让我与一个精致的个体离得反而更近，我不太清楚，也不怎么敢去想这个问题，不自我欺骗任何人都是活不下来的。床旁边是一张古老的书桌，书桌上是一团团废纸。我心情不好的时候回会躺在床上，一张张地看着这些被我象征性地否定掉的东西。是的，其中有他给我写的几封信，这个我后面会说到。但那个时候我已经不再写东西，过去的生活离我越来越远，值得被我否定的东西也越来越少，到后面就只有他的信。我看完后会把信揉成一团，搁在一个最显眼的角落。是的，你说的对，我这么做只是出于习惯，那个时候我已经没什么好否定的了，再去毁掉与他的关系没有一点意义。更坦率地讲我不敢这么做，因为他很特别。我的生活在那个时候基本上就是自欺欺人，为了他，我的确不介意多忽悠自己一点。
+   他来餐厅的时候是一个下午。他点了什么我不记得了。我只记得我给他送餐的时候感觉到他身上有一点奇特的味道，但并没有太惊讶。学生们拥有独特的气质是再正常不过的了。你可以去大学里看看他们的眼睛，单纯里总是透露出几分狡黠与恶毒。很多学生有着可爱的肤浅，他们总是努力地漂漂亮亮着，让你看着就会露出嘲弄的眼神，但心里多少有一点爱怜。所以我见到他的时候一点也不吃惊。他跟我说话，大约几分钟，没有别的客人，我站着看着他，他也沉默了，没有动手上的餐具，盯着我。这个时候我才发现他身上的气质是和他的同龄人不一样的，不是可爱的肤浅，也不是傻傻的恶毒，你会想把他看成一尊还没雕刻完的希腊雕像。他的眼神里有着圣人的悲悯，除此之外你能从他的眼睛里看到的一切东西，或多或少都有些漫不经心。
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NostalgieZZZ/NostalgieZZZ.github-io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
